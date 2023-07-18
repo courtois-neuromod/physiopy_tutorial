@@ -1,1 +1,2 @@
 1830c93c-fef3-418b-8373-8f5f0dd75bc7 archive-id=8310c33f-67d0-4a7b-b906-f540af11d869 autoenable=false encryption=none externaltype=ora name=conp-ria-storage type=external url=ria+ssh://cneuromod@localhost:4722/data/proftpd/users/cneuromod/ria-conp timestamp=1689703134.197713039s
+515fae1e-b3ae-4ab2-8c2d-90e1faad3291 cost=50 sameas-name=conp-ria-storage-http sameas-uuid=1830c93c-fef3-418b-8373-8f5f0dd75bc7 type=httpalso url=https://sftp.conp.ca/users/cneuromod/ria-conp/831/0c33f-67d0-4a7b-b906-f540af11d869/annex/objects/ timestamp=1689703141.040325999s
