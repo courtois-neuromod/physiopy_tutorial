@@ -1,1 +1,1 @@
-1830c93c-fef3-418b-8373-8f5f0dd75bc7 not metadata=distribution-restrictions=* and include=sub-0[135]/** and include=derivatives/*/sub-0[135] and exclude=sub-0[246]/** timestamp=1689773309.904274724s
+1830c93c-fef3-418b-8373-8f5f0dd75bc7 not metadata=distribution-restrictions=* and ( include=sub-0[135]/** or include=derivatives/*/sub-0[135] ) and exclude=sub-0[246]/** timestamp=1689773641.191609305s
